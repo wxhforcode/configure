@@ -1,1 +1,1 @@
-# sturdyandwork
+*ohmyzsh
