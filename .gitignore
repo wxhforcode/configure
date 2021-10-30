@@ -6,5 +6,4 @@
 .oh-my-zsh/.DS_Store
 
 # don't ignore src folder
-!.oh-my-zsh/
 
