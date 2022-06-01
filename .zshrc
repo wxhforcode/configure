@@ -82,7 +82,8 @@ zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh
-
+export http_proxy='http://127.0.0.1:1080'
+export https_proxy='http://127.0.0.1:1080'
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
